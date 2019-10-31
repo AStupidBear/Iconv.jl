@@ -1,4 +1,4 @@
-module GBK
+module Iconv
 
 export iconv, togbk, toutf8, @g_str
 

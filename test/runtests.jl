@@ -1,4 +1,4 @@
-using GBK
+using Iconv
 using Test
 
 @test iconv("笨熊", "UTF-8", "GBK") == togbk("笨熊") == g"笨熊"

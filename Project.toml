@@ -1,4 +1,4 @@
-name = "GBK"
+name = "Iconv"
 uuid = "f60d2a9e-e6c3-11e9-1104-51987764600f"
 authors = ["Yao Lu <luyaocns@gmail.com>"]
 version = "0.1.0"

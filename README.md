@@ -5,8 +5,8 @@
 Make sure `iconv` is installed on your system, then
 
 ```julia
-julia>]
-pkg> add https://github.com/AStupidBear/GBK.jl.git
+using Pkg
+pkg"add Iconv"
 ```
 
 On Windows, you can install `iconv` using [Scoop](https://scoop.sh/) 

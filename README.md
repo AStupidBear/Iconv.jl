@@ -1,5 +1,9 @@
 # String encoding conversions in Julia using iconv
 
+[![Build Status](https://travis-ci.com/AStupidBear/Iconv.jl.svg?branch=master)](https://travis-ci.com/AStupidBear/Iconv.jl)
+[![Build Status](https://ci.appveyor.com/api/projects/status/github/AStupidBear/Iconv.jl?svg=true)](https://ci.appveyor.com/project/AStupidBear/Iconv-jl)
+[![Coverage](https://codecov.io/gh/AStupidBear/Iconv.jl/branch/master/graph/badge.svg)](https://codecov.io/gh/AStupidBear/Iconv.jl)
+
 ## Installation
 
 Make sure `iconv` is installed on your system, then
